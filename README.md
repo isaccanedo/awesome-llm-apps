@@ -104,6 +104,7 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
 - [🌍 Web Scraping AI Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/web_scrapping_ai_agent)
 - [🔍 Web Search AI Assistant](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/web_search_ai_assistant)
 - [🧪 Cursor AI Experiments](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/cursor_ai_experiments)
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## 🚀 Getting Started
 
