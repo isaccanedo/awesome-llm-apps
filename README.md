@@ -35,6 +35,7 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
 
 ### AI Agents
 - [💼 AI Customer Support Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_customer_support_agent)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [📈 AI Investment Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_investment_agent)
 - [👨‍⚖️ AI Legal Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_legal_agent_team)
 - [💼 AI Recruitment Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_recruitment_agent_team)
